@@ -68,7 +68,6 @@ class _FoodDetailState extends State<FoodDetail> {
               ));
     }
   }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
