@@ -73,7 +73,7 @@ class _FoodDetailState extends State<FoodDetail> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('TITLE'),
+        title: Text(widget.food.name),
       ),
       body: Column(
         //listview of the food Details

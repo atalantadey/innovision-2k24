@@ -8,19 +8,19 @@ class Shop extends ChangeNotifier {
     Food(
         image: 'lib/images/tuna.png',
         name: 'Tuna Sushi',
-        price: '19.99',
+        price: '9.99',
         rating: '4.2'),
     //nigiri
     Food(
         image: 'lib/images/nigiri.png',
         name: 'Nigiri Sushi',
-        price: '17.99',
+        price: '7.99',
         rating: '4.7'),
     //maki
     Food(
         image: 'lib/images/maki.png',
         name: 'Maki Sushi',
-        price: '12.99',
+        price: '6.99',
         rating: '3.9'),
   ];
 

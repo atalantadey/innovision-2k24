@@ -18,8 +18,7 @@ class FoodTile extends StatelessWidget {
           color: Colors.grey.shade100,
           borderRadius: BorderRadius.circular(20),
         ),
-        width: 170,
-        height: 170,
+        height: 350,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
